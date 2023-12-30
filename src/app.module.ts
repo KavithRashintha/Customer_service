@@ -13,7 +13,7 @@ import { ProfileController } from './controllers/profile.controller';
       host: 'localhost',
       port: 5433,
       username: 'postgres',
-      password: 'Kviper0824@',
+      password: 'password',
       database: 'Customer',
       entities: [Profile],
       synchronize: true,
